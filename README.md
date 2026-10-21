@@ -4,7 +4,7 @@
 
 **A curated, searchable list of the best AI video, image & music generation tools — 78 tools, updated for 2026.**
 
-[![Tools](https://img.shields.io/badge/tools-78-6366f1)](#ai-video-tools) [![Video](https://img.shields.io/badge/video-26-22d3ee)](#ai-video-tools) [![Image](https://img.shields.io/badge/image-27-a78bfa)](#ai-image-tools) [![Music](https://img.shields.io/badge/music-25-f59e0b)](#ai-music-tools) [![License](https://img.shields.io/badge/license-MIT-green)](#license) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](#contributing)
+[![Tools](https://img.shields.io/badge/tools-78-6366f1)](#ai-video-tools) [![Video](https://img.shields.io/badge/video-26-22d3ee)](#ai-video-tools) [![Image](https://img.shields.io/badge/image-27-a78bfa)](#ai-image-tools) [![Music](https://img.shields.io/badge/music-25-f59e0b)](#ai-music-tools) [![License](https://img.shields.io/badge/license-MIT-green)](#license)
 
 **[🌐 Browse the interactive site →](https://bytenone.github.io/awesome-ai-video/)** (with instant search & filters)
 
@@ -19,7 +19,6 @@
 - [AI Video Tools](#ai-video-tools)
 - [AI Image Tools](#ai-image-tools)
 - [AI Music Tools](#ai-music-tools)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## AI Video Tools
@@ -115,22 +114,11 @@
 - **[MusicGen (Meta)](https://github.com/facebookresearch/audiocraft)** — Open-source text-to-music (Audiocraft). `Open source`
 - **[YuE](https://github.com/multimodal-art-projection/YuE)** — Open-source full-song generation. `Open source`
 
-## Contributing
-
-PRs and issues are welcome! To add a tool, include:
-
-1. Tool name and official URL
-2. A one-line description (what makes it useful)
-3. Pricing model: `Free` / `Freemium` / `Paid` / `Open source`
-4. Category: video / image / music
-
-For the website version, also add the entry to `data.js` (with `desc_en` / `desc_zh`).
-
 ## Deploying the site (GitHub Pages)
 
 1. Fork or clone this repo
 2. Settings → Pages → Deploy from branch → `main` / root
-3. Your site will be live at `https://bytenone.github.io/awesome-ai-video/`
+3. Your site will be live at `https://<username>.github.io/awesome-ai-video/`
 
 ## License
 
