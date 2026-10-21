@@ -154,6 +154,16 @@ const TOOLS = [
     desc_zh: "面向图生视频的 AI 运动控制：上传参考图 + 运动视频，即可逐帧精准迁移动作，保持角色一致性，并支持电影级运镜。同时提供 Veo、Seedance、Nano Banana 等模型。"
   },
   {
+    id: "seedance-2-5",
+    name: "Seedance 2.5",
+    url: "https://seedance2-5.io/",
+    cat: "video",
+    pricing: "paid",
+    tags: ["text-to-video", "image-to-video", "audio-video", "multimodal-reference"],
+    desc_en: "Web studio for longer audio-video clips (up to ~30s) with image, video and audio references and timestamp-level direction.",
+    desc_zh: "面向较长音画同步短片（约 30 秒）的网页工作室，支持图像/视频/音频参考和时间点级导演控制。"
+  },
+  {
     id: "genmo",
     name: "Genmo",
     url: "https://www.genmo.ai",

@@ -2,9 +2,9 @@
 
 # ▶ Awesome AI Video
 
-**A curated, searchable list of the best AI video, image & music generation tools — 78 tools, updated for 2026.**
+**A curated, searchable list of the best AI video, image & music generation tools — 79 tools, updated for 2026.**
 
-[![Tools](https://img.shields.io/badge/tools-78-6366f1)](#ai-video-tools) [![Video](https://img.shields.io/badge/video-26-22d3ee)](#ai-video-tools) [![Image](https://img.shields.io/badge/image-27-a78bfa)](#ai-image-tools) [![Music](https://img.shields.io/badge/music-25-f59e0b)](#ai-music-tools) [![License](https://img.shields.io/badge/license-MIT-green)](#license)
+[![Tools](https://img.shields.io/badge/tools-79-6366f1)](#ai-video-tools) [![Video](https://img.shields.io/badge/video-27-22d3ee)](#ai-video-tools) [![Image](https://img.shields.io/badge/image-27-a78bfa)](#ai-image-tools) [![Music](https://img.shields.io/badge/music-25-f59e0b)](#ai-music-tools) [![License](https://img.shields.io/badge/license-MIT-green)](#license)
 
 **[🌐 Browse the interactive site →](https://bytenone.github.io/awesome-ai-video/)** (with instant search & filters)
 
@@ -40,6 +40,7 @@
 - **[LTX Studio](https://ltx.studio)** — End-to-end AI filmmaking: script → storyboard → shots. `Freemium`
 - **[Higgsfield](https://higgsfield.ai)** — Camera-motion-first generation with 50+ presets. `Freemium`
 - **[Kling AI Motion Control](https://motioncontrol.app)** — AI motion control for image-to-video: frame-accurate motion transfer, character consistency, cinematic camera moves. `Paid`
+- **[Seedance 2.5](https://seedance2-5.io/)** — Web studio for longer audio-video clips (up to ~30s) with image/video/audio references and timestamp-level direction. `Paid`
 - **[Genmo](https://www.genmo.ai)** — Makers of Mochi 1, open-source video model. `Open source`
 - **[Haiper](https://haiper.ai)** — Templates, motion presets, friendly free tier. `Freemium`
 - **[Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-svd-code)** — Open-source image-to-video. `Open source`
