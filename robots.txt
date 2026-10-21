@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR_GITHUB_USERNAME.github.io/awesome-ai-video/sitemap.xml
+Sitemap: https://bytenone.github.io/awesome-ai-video/sitemap.xml

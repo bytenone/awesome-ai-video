@@ -6,9 +6,9 @@
 
 [![Tools](https://img.shields.io/badge/tools-78-6366f1)](#ai-video-tools) [![Video](https://img.shields.io/badge/video-26-22d3ee)](#ai-video-tools) [![Image](https://img.shields.io/badge/image-27-a78bfa)](#ai-image-tools) [![Music](https://img.shields.io/badge/music-25-f59e0b)](#ai-music-tools) [![License](https://img.shields.io/badge/license-MIT-green)](#license) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](#contributing)
 
-**[🌐 Browse the interactive site →](https://YOUR_GITHUB_USERNAME.github.io/awesome-ai-video/)** (with instant search & filters)
+**[🌐 Browse the interactive site →](https://bytenone.github.io/awesome-ai-video/)** (with instant search & filters)
 
-中文说明：本项目是 AI 视频 / 图像 / 音乐生成工具的精选清单，提供可搜索、可筛选的[在线版本](https://YOUR_GITHUB_USERNAME.github.io/awesome-ai-video/)，并支持中英双语。
+中文说明：本项目是 AI 视频 / 图像 / 音乐生成工具的精选清单，提供可搜索、可筛选的[在线版本](https://bytenone.github.io/awesome-ai-video/)，并支持中英双语。
 
 </div>
 
@@ -129,9 +129,8 @@ For the website version, also add the entry to `data.js` (with `desc_en` / `desc
 ## Deploying the site (GitHub Pages)
 
 1. Fork or clone this repo
-2. Replace `YOUR_GITHUB_USERNAME` in `index.html`, `robots.txt`, `sitemap.xml` and this README
-3. Settings → Pages → Deploy from branch → `main` / root
-4. Your site will be live at `https://YOUR_GITHUB_USERNAME.github.io/awesome-ai-video/`
+2. Settings → Pages → Deploy from branch → `main` / root
+3. Your site will be live at `https://bytenone.github.io/awesome-ai-video/`
 
 ## License
 
