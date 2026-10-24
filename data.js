@@ -264,6 +264,36 @@ const TOOLS = [
     desc_zh: "一键生成短视频字幕、B-roll 与变焦特效。"
   },
 
+  {
+    id: "alors-on-danse-video-maker",
+    name: "Alors On Danse Video Maker",
+    url: "https://alorsondansevideo.com",
+    cat: "video",
+    pricing: "paid",
+    tags: ["image-to-video", "dance", "photo-to-video"],
+    desc_en: "Independent AI tool: two photos → 13s studio dance video. Not affiliated with Stromae/TikTok; original electronic audio, not the song.",
+    desc_zh: "独立 AI 工具：两张照片生成约 13 秒棚拍双人舞视频。非官方，与 Stromae/TikTok 无关；使用原创电子配乐。"
+  },
+  {
+    id: "bad-times-ai",
+    name: "Bad Times AI",
+    url: "https://badtimesai.dev",
+    cat: "video",
+    pricing: "paid",
+    tags: ["image-to-video", "dance-effect", "photo-to-video"],
+    desc_en: "Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99).",
+    desc_zh: "独立 AI 舞蹈特效：一张照片生成约 14–15 秒竖屏舞蹈特效视频（付费起价 $7.99）。"
+  },
+  {
+    id: "i-found-you-in-the-crowd-ai",
+    name: "I Found You in the Crowd AI",
+    url: "https://ifoundyouinthecrowdai.com",
+    cat: "video",
+    pricing: "paid",
+    tags: ["image-to-video", "scene-effect", "photo-to-video"],
+    desc_en: "Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99).",
+    desc_zh: "独立 AI 场景特效：两张照片生成阳台/聚光灯相遇场景视频（付费起价 $7.99）。"
+  },
   // ===================== AI 图像 =====================
   {
     id: "midjourney",
