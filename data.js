@@ -294,6 +294,36 @@ const TOOLS = [
     desc_en: "Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99).",
     desc_zh: "独立 AI 场景特效：两张照片生成阳台/聚光灯相遇场景视频（付费起价 $7.99）。"
   },
+  {
+    id: "kda-firestarter-ai-dance",
+    name: "KDA Firestarter AI Dance",
+    url: "https://kdafirestarterai.dev",
+    cat: "video",
+    pricing: "paid",
+    tags: ["image-to-video", "dance", "photo-to-video"],
+    desc_en: "Independent unofficial AI tool: one photo → 13s 480p 21:9 solo dance video. Not affiliated with Riot Games or K/DA.",
+    desc_zh: "独立非官方 AI 工具：一张照片生成约 13 秒 480p 21:9 独舞视频。不隶属 Riot Games / K/DA。"
+  },
+  {
+    id: "a2o-lite-neon-ai-dance",
+    name: "A2O LITE NEON AI Dance",
+    url: "https://a2oliteai.org",
+    cat: "video",
+    pricing: "paid",
+    tags: ["image-to-video", "dance", "photo-to-video"],
+    desc_en: "Independent AI tool: two photos → 15s 480p 16:9 duo dance video with reference soundtrack. Unofficial.",
+    desc_zh: "独立 AI 工具：两张照片生成约 15 秒 480p 16:9 双人霓虹舞视频（含参考音轨）。非官方。"
+  },
+  {
+    id: "dime-dime-baby-ai",
+    name: "dime dime baby ai",
+    url: "https://dimedimebabyai.dev",
+    cat: "video",
+    pricing: "paid",
+    tags: ["image-to-video", "dance-effect", "photo-to-video"],
+    desc_en: "Independent AI tool: one photo → ~5s 480p 9:16 AI dance video (Quince Classic or Party Groove).",
+    desc_zh: "独立 AI 工具：一张照片生成约 5 秒 480p 9:16 舞蹈视频（Quince Classic / Party Groove）。"
+  },
   // ===================== AI 图像 =====================
   {
     id: "midjourney",

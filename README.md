@@ -2,9 +2,9 @@
 
 # ▶ Awesome AI Video
 
-**A curated, searchable list of the best AI video, image & music generation tools — 81 tools, updated for 2026.**
+**A curated, searchable list of the best AI video, image & music generation tools — 84 tools, updated for 2026.**
 
-[![Tools](https://img.shields.io/badge/tools-81-6366f1)](#ai-video-tools) [![Video](https://img.shields.io/badge/video-29-22d3ee)](#ai-video-tools) [![Image](https://img.shields.io/badge/image-27-a78bfa)](#ai-image-tools) [![Music](https://img.shields.io/badge/music-25-f59e0b)](#ai-music-tools) [![License](https://img.shields.io/badge/license-MIT-green)](#license)
+[![Tools](https://img.shields.io/badge/tools-84-6366f1)](#ai-video-tools) [![Video](https://img.shields.io/badge/video-32-22d3ee)](#ai-video-tools) [![Image](https://img.shields.io/badge/image-27-a78bfa)](#ai-image-tools) [![Music](https://img.shields.io/badge/music-25-f59e0b)](#ai-music-tools) [![License](https://img.shields.io/badge/license-MIT-green)](#license)
 
 **[🌐 Browse the interactive site →](https://bytenone.github.io/awesome-ai-video/)** (with instant search & filters)
 
@@ -54,6 +54,9 @@
 - **[Alors On Danse Video Maker](https://alorsondansevideo.com)** — Independent AI: two photos → 13s studio dance video. Not affiliated with Stromae/TikTok. `Paid`
 - **[Bad Times AI](https://badtimesai.dev)** — Independent AI dance effect: one photo → 14–15s portrait dance video. `Paid`
 - **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** — Independent AI scene effect: two photos → balcony/spotlight meeting video. `Paid`
+- **[KDA Firestarter AI Dance](https://kdafirestarterai.dev)** — Independent unofficial AI: one photo → 13s 21:9 solo dance video. Not affiliated with Riot Games or K/DA. `Paid`
+- **[A2O LITE NEON AI Dance](https://a2oliteai.org)** — Independent AI: two photos → 15s neon duo dance with reference soundtrack. `Paid`
+- **[dime dime baby ai](https://dimedimebabyai.dev)** — Independent AI: one photo → ~5s 9:16 AI dance (Quince Classic or Party Groove). `Paid`
 
 ## AI Image Tools
 
