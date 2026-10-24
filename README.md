@@ -2,9 +2,9 @@
 
 # ▶ Awesome AI Video
 
-**A curated, searchable list of the best AI video, image & music generation tools — 78 tools, updated for 2026.**
+**A curated, searchable list of the best AI video, image & music generation tools — 81 tools, updated for 2026.**
 
-[![Tools](https://img.shields.io/badge/tools-78-6366f1)](#ai-video-tools) [![Video](https://img.shields.io/badge/video-26-22d3ee)](#ai-video-tools) [![Image](https://img.shields.io/badge/image-27-a78bfa)](#ai-image-tools) [![Music](https://img.shields.io/badge/music-25-f59e0b)](#ai-music-tools) [![License](https://img.shields.io/badge/license-MIT-green)](#license)
+[![Tools](https://img.shields.io/badge/tools-81-6366f1)](#ai-video-tools) [![Video](https://img.shields.io/badge/video-29-22d3ee)](#ai-video-tools) [![Image](https://img.shields.io/badge/image-27-a78bfa)](#ai-image-tools) [![Music](https://img.shields.io/badge/music-25-f59e0b)](#ai-music-tools) [![License](https://img.shields.io/badge/license-MIT-green)](#license)
 
 **[🌐 Browse the interactive site →](https://bytenone.github.io/awesome-ai-video/)** (with instant search & filters)
 
@@ -51,6 +51,9 @@
 - **[Descript](https://www.descript.com)** — Edit video/podcasts by editing text. `Freemium`
 - **[CapCut](https://www.capcut.com)** — Free all-round editor with AI features. `Free`
 - **[Submagic](https://www.submagic.co)** — One-click captions and b-roll for shorts. `Paid`
+- **[Alors On Danse Video Maker](https://alorsondansevideo.com)** — Independent AI: two photos → 13s studio dance video. Not affiliated with Stromae/TikTok. `Paid`
+- **[Bad Times AI](https://badtimesai.dev)** — Independent AI dance effect: one photo → 14–15s portrait dance video. `Paid`
+- **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** — Independent AI scene effect: two photos → balcony/spotlight meeting video. `Paid`
 
 ## AI Image Tools
 
