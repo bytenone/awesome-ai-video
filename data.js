@@ -104,6 +104,16 @@ const TOOLS = [
     desc_zh: "字节跳动视频模型系列，提示词遵循度与多镜头叙事能力领先。"
   },
   {
+    id: "seedancecheap",
+    name: "SeedanceCheap",
+    url: "https://seedancecheap.com/",
+    cat: "video",
+    pricing: "paid",
+    tags: ["seedance-2.5", "text-to-video", "video-guidance", "brand-canvas"],
+    desc_en: "Independent Seedance 2.5 studio for video generation, reference-guided Motion Remix and free Brand Canvas exports. One-time credit packs, no subscription.",
+    desc_zh: "独立 AI 视频工作室，提供 Seedance 2.5 视频生成、参考引导的 Motion Remix 和免费 Brand Canvas 导出。积分包一次性购买，无需订阅。"
+  },
+  {
     id: "wan",
     name: "Wan (Alibaba)",
     url: "https://wan.video",
