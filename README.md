@@ -51,6 +51,7 @@
 - **[Descript](https://www.descript.com)** — Edit video/podcasts by editing text. `Freemium`
 - **[CapCut](https://www.capcut.com)** — Free all-round editor with AI features. `Free`
 - **[Submagic](https://www.submagic.co)** — One-click captions and b-roll for shorts. `Paid`
+- **[Dance AI Generator](https://danceaigenerator.com)** — Turn one photo of a person or pet into a 6-second dance video. `Paid`
 
 ## AI Image Tools
 
