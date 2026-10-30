@@ -50,6 +50,7 @@
 - **[Opus Clip](https://www.opus.pro)** — Long videos → viral shorts with captions. `Freemium`
 - **[Descript](https://www.descript.com)** — Edit video/podcasts by editing text. `Freemium`
 - **[CapCut](https://www.capcut.com)** — Free all-round editor with AI features. `Free`
+- **[APT Video AI](https://aptvideoai.app)** — Two photos into an APT-style pink-studio duo video (fan-made template tool, one-time credit packs). `Paid`
 - **[Submagic](https://www.submagic.co)** — One-click captions and b-roll for shorts. `Paid`
 
 ## AI Image Tools
