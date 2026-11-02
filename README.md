@@ -51,6 +51,13 @@
 - **[Descript](https://www.descript.com)** — Edit video/podcasts by editing text. `Freemium`
 - **[CapCut](https://www.capcut.com)** — Free all-round editor with AI features. `Free`
 - **[Submagic](https://www.submagic.co)** — One-click captions and b-roll for shorts. `Paid`
+- **[GrokVideo Studio](https://grokvideogenerator.dev)** — Independent text/image-to-video via Grok Imagine API (not official xAI/X). `Freemium`
+- **[Alors On Danse Video Maker](https://alorsondansevideo.com)** — Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok).
+- **[Bad Times AI](https://badtimesai.dev)** — Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99).
+- **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** — Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99).
+- **[KDA Firestarter AI Dance](https://kdafirestarterai.dev)** — Independent unofficial AI dance effect: one photo → 13s widescreen solo dance video (Paid from $7.99; not affiliated with Riot/KDA).
+- **[A2O LITE NEON AI Dance](https://a2oliteai.org)** — Independent unofficial AI dance: two photos → neon dual dance video (Paid from $7.99).
+- **[dime dime baby ai](https://dimedimebabyai.dev)** — Independent unofficial AI dance effect: one photo → short dance video (Paid from $7.99).
 
 ## AI Image Tools
 
@@ -78,6 +85,7 @@
 - **[Upscayl](https://upscayl.org)** — Free open-source desktop upscaler. `Open source`
 - **[Remove.bg](https://www.remove.bg)** — One-click background removal + API. `Freemium`
 - **[Photoroom](https://www.photoroom.com)** — AI product photography for e-commerce. `Freemium`
+- **[PromptImage](https://promptimage.cloud)** — Free AI image gallery + image/video studio; freemium signup credits, no card. `Freemium`
 - **[Canva Magic Studio](https://www.canva.com/magic-studio/)** — AI design toolkit inside Canva. `Freemium`
 - **[Kolors](https://huggingface.co/Kwai-Kolors/Kolors)** — Kuaishou open weights, strong Chinese text. `Open source`
 - **[Seedream](https://seed.bytedance.com/en/seedream)** — ByteDance image models, native 4K. `Freemium`
