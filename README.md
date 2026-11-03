@@ -2,9 +2,9 @@
 
 # ▶ Awesome AI Video
 
-**A curated, searchable list of the best AI video, image & music generation tools — 78 tools, updated for 2026.**
+**A curated, searchable list of the best AI video, image & music generation tools — 80 tools, updated for 2026.**
 
-[![Tools](https://img.shields.io/badge/tools-78-6366f1)](#ai-video-tools) [![Video](https://img.shields.io/badge/video-26-22d3ee)](#ai-video-tools) [![Image](https://img.shields.io/badge/image-27-a78bfa)](#ai-image-tools) [![Music](https://img.shields.io/badge/music-25-f59e0b)](#ai-music-tools) [![License](https://img.shields.io/badge/license-MIT-green)](#license)
+[![Tools](https://img.shields.io/badge/tools-80-6366f1)](#ai-video-tools) [![Video](https://img.shields.io/badge/video-26-22d3ee)](#ai-video-tools) [![Image](https://img.shields.io/badge/image-27-a78bfa)](#ai-image-tools) [![Music](https://img.shields.io/badge/music-25-f59e0b)](#ai-music-tools) [![License](https://img.shields.io/badge/license-MIT-green)](#license)
 
 **[🌐 Browse the interactive site →](https://bytenone.github.io/awesome-ai-video/)** (with instant search & filters)
 
@@ -30,6 +30,7 @@
 - **[Runway](https://runwayml.com)** — Gen-4 generation plus motion brush, camera control and pro editing. `Freemium`
 - **[Kling AI](https://www.klingai.com)** — Kuaishou's model with strong motion, start/end frames and lip sync. `Freemium`
 - **[Hailuo AI](https://hailuoai.video)** — MiniMax generator with strong physics and subject reference (S2V). `Freemium`
+- **[Cyanvid](https://cyanvid.com/?utm_source=bytenone-awesome-ai-video&utm_medium=directory&utm_campaign=backlinks)** — AI video generator from text or images with exact credit quotes before you generate. `Freemium`
 - **[Luma Dream Machine](https://lumalabs.ai/dream-machine)** — Keyframes, loops and brainstorm boards. `Freemium`
 - **[Pika](https://pika.art)** — Creative effects (Pikaffects), scene ingredients, video restyling. `Freemium`
 - **[Vidu](https://www.vidu.com)** — Reference-to-video with multi-subject consistency. `Freemium`
@@ -49,6 +50,7 @@
 - **[Topaz Video AI](https://www.topazlabs.com/topaz-video-ai)** — Local upscaling, denoising, frame interpolation. `Paid`
 - **[Opus Clip](https://www.opus.pro)** — Long videos → viral shorts with captions. `Freemium`
 - **[Descript](https://www.descript.com)** — Edit video/podcasts by editing text. `Freemium`
+- **[Barz Studio](https://barzvideo.com/?utm_source=bytenone-awesome-ai-video&utm_medium=directory&utm_campaign=backlinks)** — Make a beat-reactive rap lyric video from your track in the browser; free without an account. `Free`
 - **[CapCut](https://www.capcut.com)** — Free all-round editor with AI features. `Free`
 - **[Submagic](https://www.submagic.co)** — One-click captions and b-roll for shorts. `Paid`
 
