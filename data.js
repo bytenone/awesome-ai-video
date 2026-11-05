@@ -254,6 +254,16 @@ const TOOLS = [
     desc_zh: "免费全能剪辑器，AI 字幕、抠图、图文成片一应俱全。"
   },
   {
+    id: "reclipmuse",
+    name: "ReclipMuse",
+    url: "https://www.reclipmuse.com",
+    cat: "video",
+    pricing: "paid",
+    tags: ["image-to-video", "lip-sync", "music", "shorts"],
+    desc_en: "Photo-to-rap video: upload portraits, generate an original rap, then turn a chosen clip into a lip-synced performance for birthday and roast shorts.",
+    desc_zh: "照片生成说唱视频：上传人像、生成原创 rap，再把选中片段做成对口型表演，适合生日和互怼短片。"
+  },
+  {
     id: "submagic",
     name: "Submagic",
     url: "https://www.submagic.co",
