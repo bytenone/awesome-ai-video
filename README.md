@@ -40,6 +40,8 @@
 - **[LTX Studio](https://ltx.studio)** — End-to-end AI filmmaking: script → storyboard → shots. `Freemium`
 - **[Higgsfield](https://higgsfield.ai)** — Camera-motion-first generation with 50+ presets. `Freemium`
 - **[Kling AI Motion Control](https://motioncontrol.app)** — AI motion control for image-to-video: frame-accurate motion transfer, character consistency, cinematic camera moves. `Paid`
+
+- **[Genjutsu AI](https://genjutsuai.dev)** — Browser AI video editor for outfit and character swaps from reference photos, no reshoot needed. `Freemium`
 - **[Genmo](https://www.genmo.ai)** — Makers of Mochi 1, open-source video model. `Open source`
 - **[Haiper](https://haiper.ai)** — Templates, motion presets, friendly free tier. `Freemium`
 - **[Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-svd-code)** — Open-source image-to-video. `Open source`
