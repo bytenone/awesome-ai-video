@@ -46,6 +46,7 @@
 - **[HeyGen](https://www.heygen.com)** — AI avatars and video translation with lip sync. `Freemium`
 - **[Synthesia](https://www.synthesia.io)** — Enterprise text-to-avatar videos. `Paid`
 - **[D-ID](https://www.d-id.com)** — Talking heads and streaming avatars via API. `Freemium`
+- **[MakeAICreator](https://makeaicreator.com)** — Consistent AI influencer builder from a plain-language persona: face-anchored photos, voiceover videos, and product-placement clips. `Paid`
 - **[Topaz Video AI](https://www.topazlabs.com/topaz-video-ai)** — Local upscaling, denoising, frame interpolation. `Paid`
 - **[Opus Clip](https://www.opus.pro)** — Long videos → viral shorts with captions. `Freemium`
 - **[Descript](https://www.descript.com)** — Edit video/podcasts by editing text. `Freemium`
