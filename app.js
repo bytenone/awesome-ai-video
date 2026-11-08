@@ -4,7 +4,7 @@ const I18N = {
     skip: "Skip to tools",
     heroKicker: "Curated & updated · 2026",
     heroTitle: "The Best AI Video, Image & Music Tools — All in One Searchable List",
-    heroSub: "78 hand-picked tools for generating video, images and music with AI. Search instantly, filter by pricing, and find the right tool in seconds.",
+    heroSub: "79 hand-picked tools for generating video, images and music with AI. Search instantly, filter by pricing, and find the right tool in seconds.",
     catAll: "All tools", catVideo: "AI Video", catImage: "AI Image", catMusic: "AI Music",
     priceAll: "Any price", priceFree: "Free", priceFreemium: "Freemium", pricePaid: "Paid", priceOpensource: "Open source",
     featured: "Featured",
@@ -35,14 +35,14 @@ const I18N = {
     footerDisclaimerTitle: "Disclaimer",
     footerDisclaimer: "Tool descriptions are editorial summaries. Pricing and features change often — always verify on the official site.",
     license: "License", madeWith: "Made with ❤ for the AI creator community",
-    pageTitle: "Awesome AI Video — 78 Best AI Video, Image & Music Generation Tools (2026)",
+    pageTitle: "Awesome AI Video — 79 Best AI Video, Image & Music Generation Tools (2026)",
     searchPlaceholder: "Search tools — try “text-to-video”, “Suno”, “open source”…"
   },
   zh: {
     skip: "跳到工具列表",
     heroKicker: "人工精选 · 持续更新 · 2026",
     heroTitle: "AI 视频、图像与音乐工具精选 — 一个页面，即搜即得",
-    heroSub: "78 个精选 AI 生成工具，覆盖视频、图像与音乐。支持即时搜索与价格筛选，几秒找到合适的工具。",
+    heroSub: "79 个精选 AI 生成工具，覆盖视频、图像与音乐。支持即时搜索与价格筛选，几秒找到合适的工具。",
     catAll: "全部工具", catVideo: "AI 视频", catImage: "AI 图像", catMusic: "AI 音乐",
     priceAll: "不限价格", priceFree: "免费", priceFreemium: "免费增值", pricePaid: "付费", priceOpensource: "开源",
     featured: "精选推荐",
@@ -73,7 +73,7 @@ const I18N = {
     footerDisclaimerTitle: "免责声明",
     footerDisclaimer: "工具简介为编辑摘要，价格与功能可能随时变化，请以官网为准。",
     license: "许可协议", madeWith: "为 AI 创作者社区而做 ❤",
-    pageTitle: "Awesome AI Video — 78 个最佳 AI 视频/图像/音乐生成工具（2026）",
+    pageTitle: "Awesome AI Video — 79 个最佳 AI 视频/图像/音乐生成工具（2026）",
     searchPlaceholder: "搜索工具，如“文生视频”“Suno”“开源”…"
   }
 };
