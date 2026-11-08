@@ -4,6 +4,16 @@
 const TOOLS = [
   // ===================== AI 视频 =====================
   {
+    id: "reelai",
+    name: "ReelAI",
+    url: "https://tryreelai.com/",
+    cat: "video",
+    pricing: "paid",
+    tags: ["image-to-video", "templates", "short-video"],
+    desc_en: "Creates short AI videos from photos using ready-to-use templates.",
+    desc_zh: "使用模板将照片生成短 AI 视频。"
+  },
+  {
     id: "sora",
     name: "Sora",
     url: "https://sora.com",
