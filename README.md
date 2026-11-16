@@ -26,7 +26,7 @@
 *Generation, editing, avatars and post-production.*
 
 - **[Sora](https://sora.com)** — OpenAI's text-and-image-to-video model with storyboard and remix tools. `Freemium`
-- **[Google Veo](https://labs.google/veo)** — DeepMind video models with native audio and up to 4K. `Freemium`
+- **[Google Veo](https://deepmind.google/models/veo/)** — DeepMind video models with native audio and up to 4K. `Freemium`
 - **[Runway](https://runwayml.com)** — Gen-4 generation plus motion brush, camera control and pro editing. `Freemium`
 - **[Kling AI](https://www.klingai.com)** — Kuaishou's model with strong motion, start/end frames and lip sync. `Freemium`
 - **[Hailuo AI](https://hailuoai.video)** — MiniMax generator with strong physics and subject reference (S2V). `Freemium`
@@ -42,7 +42,7 @@
 - **[Kling AI Motion Control](https://motioncontrol.app)** — AI motion control for image-to-video: frame-accurate motion transfer, character consistency, cinematic camera moves. `Paid`
 - **[Genmo](https://www.genmo.ai)** — Makers of Mochi 1, open-source video model. `Open source`
 - **[Haiper](https://haiper.ai)** — Templates, motion presets, friendly free tier. `Freemium`
-- **[Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-svd-code)** — Open-source image-to-video. `Open source`
+- **[Stable Video Diffusion](https://github.com/Stability-AI/generative-models)** — Open-source image-to-video. `Open source`
 - **[HeyGen](https://www.heygen.com)** — AI avatars and video translation with lip sync. `Freemium`
 - **[Synthesia](https://www.synthesia.io)** — Enterprise text-to-avatar videos. `Paid`
 - **[D-ID](https://www.d-id.com)** — Talking heads and streaming avatars via API. `Freemium`
@@ -72,7 +72,7 @@
 - **[ComfyUI](https://www.comfy.org)** — Node-based workflows; the local pipeline standard. `Open source`
 - **[AUTOMATIC1111 WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** — Classic SD web UI, huge extensions. `Open source`
 - **[Fooocus](https://github.com/lllyasviel/Fooocus)** — Simple offline generation, MJ-like ease. `Open source`
-- **[Invoke](https://invoke.com)** — Pro open-source studio for controlled inpainting. `Open source`
+- **[Invoke](https://invoke.ai)** — Pro open-source studio for controlled inpainting. `Open source`
 - **[Civitai](https://civitai.com)** — Largest hub for checkpoints, LoRAs, prompts. `Free`
 - **[Magnific AI](https://magnific.ai)** — Premium upscaler that reimagines detail. `Paid`
 - **[Upscayl](https://upscayl.org)** — Free open-source desktop upscaler. `Open source`
@@ -92,7 +92,6 @@
 - **[Udio](https://www.udio.com)** — High-fidelity songs with fine-grained editing and stems. `Freemium`
 - **[Stable Audio](https://stableaudio.com)** — Music, SFX and audio-to-audio by Stability AI. `Freemium`
 - **[ElevenLabs](https://elevenlabs.io)** — Best-in-class TTS/voice cloning, now with music and SFX. `Freemium`
-- **[MusicFX](https://labs.google/aitestkitchen)** — Google's Lyria text-to-music experiment. `Free`
 - **[AIVA](https://www.aiva.ai)** — Veteran composer for cinematic/orchestral scores. `Freemium`
 - **[Soundraw](https://soundraw.io)** — Royalty-free background music with mood control. `Paid`
 - **[Mubert](https://mubert.com)** — Generative ambient music + developer API. `Freemium`
